@@ -1,16 +1,22 @@
-### Hi there 👋
+# console.log("Hello world 👋")
 
-<!--
-**TudorZgimbau/TudorZgimbau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Tudor, a full-stack developer from Romania with interests in social impact, startups, scaling & the gaming and esports ecosystem 
 
-Here are some ideas to get you started:
+- 🛠 Tools I usually use:
+     - Frontend: React, Next.js, Chakra UI
+     - Backend: Node, Cloudflare workers, python
+     - Databases: MongoDB, Upstash Redis, PostgreSQL
+     - Others: Collaborative apps with y.js, Ably
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📌 Projects:
+     - DataZard (ex datazard.com): brand analytics startup ( full-stack core developer )
+     - [Bytecrowds](https://github.com/Bytecrowds/bytecrowds): serverless code sharing platform ( personal project )
+     - [Integrity](https://github.com/TudorZgimbau/integrity): blockchain based messaging platform ( hackathon project )
+  
+- 🔗 Links & contact: 
+     - email: tudor.zgimbau@gmail.com
+     - LinkedIn: https://www.linkedin.com/in/tudor-zg%C3%AEmb%C4%83u-a85274234/
+     - socials: nothing worthy to show here for now 😅
+     
+Feel free to DM for heated debates about tech <3.
+     
