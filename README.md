@@ -16,7 +16,7 @@ Coming primarily from a **web** background, I'm looking to also understand the *
      - [Integrity](https://github.com/TudorZgimbau/integrity): blockchain based messaging platform ( hackathon project, unfinished )
      - [Project Cloud4](https://www.projectcloud4.com/): creative studio founded by high-school students ( founding member and project manager )
      - (WIP) [A.T.R.I.S. by Project Cloud4](https://www.projectcloud4.com/atris): NGO shelter mapping app that tracks user location and logistics in case of state emergency situations ( project manager, tech lead )
-     - other small projects like Romanian poet [Mihai Eminescu's writing map](https://eminescu.netlify.app/) (front-end developer))
+     - other small projects like Romanian poet [Mihai Eminescu's writing map](https://eminescu.netlify.app/) (front-end developer)
      
 - ⌨️ Articles:
      - [technical blogs for Upstash](https://upstash.com/blog/author/tudor)
