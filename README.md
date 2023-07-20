@@ -1,6 +1,8 @@
 # print("Hello world 👋")
 
-I'm Tudor, a developer and author from Romania. My interests involve startups and psychology.
+I'm Tudor, a developer, author and business enthusiast from Romania.
+
+If you want to check out more of my story: https://www.tudor-zgimbau.dev/blog/who_am_i
 
 1. Coming primarily from a full-stack web background, I'm now focusing on developer tooling and productivity.
      
