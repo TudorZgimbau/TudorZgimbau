@@ -9,4 +9,4 @@ My preferred programming language is Python, but I also have experience in the J
 ## Links & contact: 
    - email: tudor.zgimbau@gmail.com
    - LinkedIn: https://www.linkedin.com/in/tudor-zg%C3%AEmb%C4%83u-a85274234/
-   - Twitter: https://twitter.com/tudor_zgimbau
+   - portfolio & blog: https://www.tudor-zgimbau.dev
