@@ -1,6 +1,6 @@
 # print("Hello world 👋")
 
-I'm Tudor, a developer and business enthusiast from Romania. I've been part of a startup founding team, launched my own product and collaborated on technical and business aspects for other projects
+I'm Tudor, a developer and business enthusiast from Romania. I've been part of a startup founding team, launched my own product, and collaborated on technical and business aspects for other projects.
 
 If you want to know who I am and how I got here, check out my story: https://www.tudor-zgimbau.dev/blog/who_am_i
      
