@@ -1,10 +1,8 @@
 # print("Hello world 👋")
 
-I'm Tudor, a developer and business enthusiast from Romania. I've been part of a startup founding team, launched my own product, and collaborated on technical and business aspects for other projects.
+I'm Tudor, a developer from Romania. After being involved in tech startups and learning about both the technical and business aspects of working with such companies, I've decided to give algorithmic trading a try and I'm currently focused on expanding my knowledge in the financial area. 
 
-If you want to know who I am and how I got here, check out my story: https://www.tudor-zgimbau.dev/blog/who_am_i
-     
-My preferred programming language is Python, but I also have experience in the JavaScript ecosystem with little bits of TypeScript.
+If you want to know who I am and how I got here, check out my story: https://www.tudor-zgimbau.dev/blog/who_am_i 
 
 ## Links & contact: 
    - email: tudor.zgimbau@gmail.com
