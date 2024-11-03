@@ -1,6 +1,6 @@
 # print("Hi world 👋")
 
-After being involved in tech startups and learning about the technical and business aspects of working with such companies, I've become interested in economics and applying data science in it. I'm currently focused on expanding my knowledge in this and the financial area. 
+I'm in the process of becoming an economist and am interested in applying data science in economics in order to produce high-quality, impactful research. In the past, I've been a software engineer involved in tech startups and learned about the technical and business aspects of working with such companies.
 
 If you want to know who I am and how I got here, check out my story: https://www.tudor-zgimbau.dev/blog/who_am_i 
 
