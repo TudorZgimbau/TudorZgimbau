@@ -1,6 +1,6 @@
 Hello world 👋
 
-I'm Tudor and I'm a 20-year-old finance student. I'm looking to create efficient, scalable systems in the finance world using what I consider to be my learned skills thorought high-school and college, such as:
+I'm Tudor and I'm a 20-year-old finance student. I'm looking to create efficient, scalable systems in the finance world using what I consider to be my learned skills throughout high-school and college, such as:
   - economics;
   - various areas of finance;
   - little bit of knowledge on banking (still working on that);
